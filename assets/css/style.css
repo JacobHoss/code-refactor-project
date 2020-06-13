@@ -1,13 +1,16 @@
+/* Global */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Body */
 body {
     background-color: #d9dcd6;
 }
 
+/* Header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,10 +23,12 @@ h1 {
     font-size: 48px;
 }
 
+/* Styling for Company Name */
 #seo {
     color: #d9dcd6;
 }
 
+/* Top Navigation Bar */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -46,10 +51,12 @@ a {
     text-decoration: none;
 }
 
+/* Paragraph Font-Size */
 p {
     font-size: 16px;
 }
 
+/* Banner */
 #hero {
     height: 800px;
     width: 100%;
@@ -75,6 +82,7 @@ main {
     margin-left: 20px;
 }
 
+/* Aside Content */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -102,6 +110,7 @@ aside img {
     max-width: 150px;
 }
 
+/* Main Content */
 main section {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,6 +129,7 @@ main section h2 {
     font-size: 36px;
 }
 
+/* Footer */
 footer {
     padding: 30px;
     clear: both;
